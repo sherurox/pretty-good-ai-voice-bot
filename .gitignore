@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+
+# Transcripts (keep structure, ignore content during development)
+transcripts/*.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
